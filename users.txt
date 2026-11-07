@@ -1,0 +1,4 @@
+# AfrikaClient users - one Minecraft name (or UUID) per line.
+# Everyone listed here gets the little white flower in front of their name
+# for players using the AfrikaClient mod.
+Springlols
