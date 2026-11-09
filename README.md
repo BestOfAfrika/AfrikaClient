@@ -1,7 +1,7 @@
 # 🌟 AfrikaClient
 
-[![Discord](https://shields.io)](https://discord.gg/qu3D7h73Zh)
-[![Platform](https://shields.io)](https://github.com)
+[![Discord](https://shields.io)](https://discord.gg)
+[![Platform](https://shields.io)](https://github.com/BestOfAfrika/AfrikaClient/releases/)
 [![Minecraft](https://shields.io)](https://fabricmc.net)
 
 **AfrikaClient** is a free, high-performance, and feature-rich Minecraft Java Edition game utility environment made by **BestOfAfrika**. It consists of a sleek Windows-native launcher hub coupled with a powerful, modular optimization client designed to elevate your multiplayer and survival gameplay.
@@ -12,7 +12,7 @@
 Unlike many third-party clients, AfrikaClient is designed with absolute transparency. We believe your gaming data and credentials belong solely to you.
 
 * **Zero Telemetry:** No analytics, no tracking, and no background telemetry data collection.
-* **Official Microsoft OAuth 2.0:** Account sign-ins go directly through official Xbox/Microsoft secure endpoints. The client never handles, intercept, or views your account passwords.
+* **Official Microsoft OAuth 2.0:** Account sign-ins go directly through official Xbox/Microsoft secure endpoints. The client never handles, intercepts, or views your account passwords.
 * **Sandboxed Workspace:** The launcher only touches its own local application folder. It does not scan your PC directories or read unrelated application data.
 * **Safe External Links:** Outbound URL actions strictly redirect to audited, trusted domains (Microsoft, Modrinth, Fabric, Spotify, Discord).
 * **Opt-In Architecture:** Everything within the in-game modifications system is **disabled by default**. You choose exactly what you want to enable.
@@ -45,7 +45,7 @@ A custom game engine optimization modification written in **Java** on top of **F
 
 ## 📦 Installation Guide
 
-1. Navigate to our official [GitHub Releases](https://github.com) page.
+1. Navigate to our official [GitHub Releases](https://github.com/BestOfAfrika/AfrikaClient/releases/) page.
 2. Download the latest `AfrikaClient.exe` executable binary file.
 3. *(Optional)* Verify your file integrity matching the provided `AfrikaClient.exe.sha256` checksum map.
 4. Launch the application. The launcher will configure its dedicated runtime framework automatically.
@@ -65,7 +65,7 @@ A custom game engine optimization modification written in **Java** on top of **F
 
 ## 👥 Community & Support
 
-* **Official Discord Hub:** Join us on [Discord](https://discord.gg/qu3D7h73Zh) for live support, feature requests, and updates.
+* **Official Discord Hub:** Join us on [Discord](https://discord.gg) for live support, feature requests, and updates.
 * **Lead Developer Contact:** `bestofafrika` on Discord.
 
 ***Made with ♥ by BestOfAfrika***
