@@ -1,7 +1,10 @@
 [
-  { "title": "Welcome to the AfrikaClient community! 🌸", "body": "Post your best themes in the Discord.\n- Best ones get featured\n- **Have fun!**", "date": "2026-11-11", "pinned": true }
-]
-[
+  {
+    "title": "Welcome to the AfrikaClient community! 🌸",
+    "body": "Post your best themes in the Discord.\n- Best ones get featured\n- **Have fun!**",
+    "date": "2026-11-11",
+    "pinned": true
+  },
   {
     "title": "The AfrikaClient Discord is in the works! 🛠️",
     "body": "Our Discord server is **currently being set up**, and the bot is being **fully developed** so everything is ready when we open.\n\n# Coming soon\n- Chat with other AfrikaClient players\n- Share your themes and fits\n- Get help and the latest news first\n\n---\n💡 **Got a suggestion?** DM me on Discord: `bestofafrika`",
