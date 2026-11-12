@@ -1,0 +1,13 @@
+{
+ "_": "Petal gifts from BestOfAfrika. 'to' is a hash of the Minecraft name. Added by the AfrikaClient launcher.",
+ "gifts": [
+  {
+   "id": "516ee4570cf68706",
+   "to": "9fb3f734b5bbcc2e984ad2176c6396b2270d3af605a904dd6a85f9ad68ba2046",
+   "amount": 1000,
+   "from": "BestOfAfrika",
+   "note": "Test",
+   "at": 1794490104
+  }
+ ]
+}
