@@ -1,10 +1,16 @@
 {
  "title": "This week",
- "until": 1795104357,
+ "until": 1795104362,
  "items": [
+  {
+   "id": "petal_bloom"
+  },
   {
    "id": "petal_sunset",
    "off": 10
+  },
+  {
+   "id": "petal_ocean"
   },
   {
    "id": "petal_neon"
