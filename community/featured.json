@@ -1,1 +1,22 @@
-{"title":"","until":0,"items":[]}
+{
+ "title": "This week",
+ "until": 1795200024,
+ "items": [
+  {
+   "id": "petal_anim_aurora_northern",
+   "off": 50
+  },
+  {
+   "id": "petal_anim_aurora_rose",
+   "off": 50
+  },
+  {
+   "id": "petal_anim_galaxy_violet",
+   "off": 50
+  },
+  {
+   "id": "petal_anim_galaxy_blue",
+   "off": 50
+  }
+ ]
+}
