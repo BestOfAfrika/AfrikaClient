@@ -63,6 +63,14 @@
    "amount": 1000,
    "from": "BestOfAfrika",
    "at": 1795273934
+  },
+  {
+   "id": "b561c00a5bae011e",
+   "to": "d5f62a7abb2f6841326a40c718ed02fd255e68c5af8e49dfeea2ea3dce670100",
+   "amount": 1000,
+   "from": "BestOfAfrika",
+   "note": "Thanks for using AfrikaClient",
+   "at": 1795279321
   }
  ]
 }
